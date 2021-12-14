@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/c4/c6/fb/c4c6fb0469f227a4d297c68059dc950d.jpg" alt="mel" width="170" />
+<img src="https://telegra.ph/file/6b0259fd741e108910fbe.jpg" alt="mel" width="170" />
 
 ## MEL-API
 
@@ -342,6 +342,6 @@ Yogyakarta = 25
 ```
 
   # Thanks To
-* [`MRHRTZ`](https://github.com/MRHRTZ)
+* [`Hexagonz`](https://github.com/Hexagonz)
   
   
