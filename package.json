@@ -1,0 +1,30 @@
+{
+  "name": "mel-api",
+  "version": "1.0.0",
+  "description": "mel-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameliacanz/mel-api.git"
+  },
+  "keywords": [
+    "YNTKTS"
+  ],
+  "author": "IqbalzzX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameliacanz/mel-api/issues"
+  },
+  "homepage": "https://github.com/ameliacanz/mel-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
