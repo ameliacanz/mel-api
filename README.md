@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/c4/c6/fb/c4c6fb0469f227a4d297c68059dc950d.jpg" alt="Hexa" width="170" />
+<img src="https://i.pinimg.com/originals/c4/c6/fb/c4c6fb0469f227a4d297c68059dc950d.jpg" alt="mel" width="170" />
 
-## HEXA-API
+## MEL-API
 
 </div>
 
 <p align="center">
-<a href="##"><img title="hexa-api" src="https://img.shields.io/static/v1?label=package&message=mel-api&color=red"></a>
+<a href="##"><img title="mel-api" src="https://img.shields.io/static/v1?label=package&message=mel-api&color=red"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Hexagonz"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ameliacanz"><img title="Author" src="https://img.shields.io/badge/Author-Amelia-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=mel-api&color=pink"></a>
