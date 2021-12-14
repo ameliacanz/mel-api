@@ -236,6 +236,17 @@ mel.ttdownloader(link)
      console.log(result)
 });
 ```
+
+## ```Search Sticker```
+``` 
+const mel = require('mel-api');
+const query = 'patrick'
+
+mel.searchstick(query)
+    .then(result => {
+     console.log(result)
+});
+```
 # ```LIST JADWAL SHOLAT```
 ```
 Jakarta = 1

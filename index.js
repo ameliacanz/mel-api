@@ -19,6 +19,7 @@ const {
 	fbdown,
 	youtube,
 	ttdownloader
+	searchstick
 } = require('./lib/function')
 
 module.exports.otakudesu = otakudesu
@@ -40,6 +41,7 @@ module.exports.igstalk = igstalk
 module.exports.twitter = twitter
 module.exports.fbdown = fbdown
 module.exports.youtube = youtube
+module.exports.searchstick = searchstick
 module.exports.ttdownloader = ttdownloader
 
 
